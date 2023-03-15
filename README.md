@@ -21,7 +21,7 @@ There are two possible scenarios when the users finished the game. The user can 
 
 In order to create this game, the most important part is to retrieve the secret word that the user needs to guess. To do so, I used a random word API that returns a random five letter word. The API that I used it’s open and this is the website with all the documentation:
 
-[http://random-word-api.herokuapp.com/home](http://random-word-api.herokuapp.com/home)
+[API Documentation](http://random-word-api.herokuapp.com/home)
 
 # 3) Improvements.
 
