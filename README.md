@@ -1,6 +1,3 @@
-# hangman
-JavaScript final project - Hangman game website
-
 # Hangman
 
 JavaScrip Final Project - Hangman game website.
