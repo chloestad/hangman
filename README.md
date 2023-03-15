@@ -5,7 +5,7 @@ JavaScrip Final Project - Hangman game website.
 > In this document, I explain the website with a small description, resources used and improvements for the hangman game that I created. The document is divided in three sections.
 > 
 
-🕹️  **Project link:** [https://celebrated-cuchufli-5ef825.netlify.app/](https://celebrated-cuchufli-5ef825.netlify.app/)
+🕹️  **Project link:** [HANGMAN](https://celebrated-cuchufli-5ef825.netlify.app/)
 
 # 1) Description of Hangman game.
 
